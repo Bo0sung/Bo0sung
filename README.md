@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, I'm Park busung </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>🎓 SeoulTech AI 응용학과 재학 중</li><li>🍊 BITAmin (AI Club) 17th member </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>🎓 SeoulTech AI 응용학과 재학 중</li><li></li>🍊 BITAmin (AI Club) 17th member</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
